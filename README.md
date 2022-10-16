@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Blaireken
 - 👀 I’m interested in front-end deveopment and cloud
-- 🌱 I’m currently learning cloud development and infrustucture.
-- 💞️ I’m looking to collaborate on a variety of technologies including Aws,Azure and Google cloud.
+- 🌱 I’m currently learning cloud development and infrustucture and android software development using java and kotlin
+- 💞️ I’m looking to collaborate on a variety of technologies including android studio, Aws,Azure and Google cloud.
 - My top used stacks are Aws services, CI/CD, Docker, Kubernates, Microservices, Linus, Git
 - 📫 How to reach me through my email, muriithiken66@gmail.com
 
